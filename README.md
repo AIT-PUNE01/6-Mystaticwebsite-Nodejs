@@ -2,7 +2,7 @@ Terminal Commands:
 
 change directory:
 
-```cd "path"```
+```cd "path of server.js"```
 
 ```npm init -y```
 
